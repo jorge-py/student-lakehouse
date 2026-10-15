@@ -1,0 +1,6 @@
+pyarrow
+psycopg2-binary
+pandas
+sqlalchemy
+jupyterlab
+jupysql

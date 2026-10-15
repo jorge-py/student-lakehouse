@@ -1,0 +1,22 @@
+# venv por nivel
+nivel-1/venv/
+nivel-0/venv/
+venv/
+# datos generados/descargables (se regeneran con labs 11/14/17)
+nivel-1/data/
+nivel-0/data/
+*.csv
+*.parquet
+# checkpoints Jupyter
+.ipynb_checkpoints/
+nivel-1/.ipynb_checkpoints/
+nivel-1/notebooks/.ipynb_checkpoints/
+# python / env
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+# OS / VS Code
+.DS_Store
+.vscode/settings.json
